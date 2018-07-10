@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wangyi.blog.app.view.HighLightLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/highLightLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GuideActivity">
+</wangyi.blog.app.view.HighLightLayout>
